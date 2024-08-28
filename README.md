@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divanshu</h1>
 <h3 align="center">I’m a Tech Geek with a passion for exploring new technologies. Studying Computer Science and Engineering at Guru Gobind Singh Indraprastha University.</h3>
-<img align="right" alt="Coding" width"600" src="https://t4.ftcdn.net/jpg/08/70/32/31/240_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg">
+<img align="right" alt="Coding" width"400" src="https://t4.ftcdn.net/jpg/08/70/32/31/240_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divanshu2412&label=Profile%20views&color=0e75b6&style=flat" alt="divanshu2412" /> </p>
 
