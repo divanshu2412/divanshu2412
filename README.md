@@ -20,4 +20,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divanshu2412&show_icons=true&locale=en&layout=compact" alt="divanshu2412" /></p>
 
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=divanshu2412)](https://github.com/divanshu2412/github-readme-profile)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divanshu2412&" alt="divanshu2412" /></p>
