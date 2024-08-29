@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/divanshu2412/divanshu2412/blob/main/GitHub%20Banner.gif)](https://github.com/divanshu2412)
 <h1 align="center">Hi 👋, I'm Divanshu</h1>
 <h3 align="center">I’m a Tech Geek with a passion for exploring new technologies. Studying Computer Science and Engineering at Guru Gobind Singh Indraprastha University.</h3>
 <img align="right" alt="Coding" width"400" src="https://t4.ftcdn.net/jpg/08/70/32/31/240_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg">
