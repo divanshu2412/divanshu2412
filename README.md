@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divanshu2412&label=Profile%20views&color=0e75b6&style=flat" alt="divanshu2412" /> </p>
 
-- 🌱 I’m currently learning **Web Development, C++, Python**
+- 🌱 I’m currently learning **MERN Stack Development**
 
 - 📫 How to reach me **divanshu4210@gmail.com**
 
@@ -20,6 +20,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divanshu2412&show_icons=true&locale=en&layout=compact" alt="divanshu2412" /></p>
 
-[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=divanshu2412)](https://github.com/divanshu2412/github-readme-profile)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divanshu2412&" alt="divanshu2412" /></p>
